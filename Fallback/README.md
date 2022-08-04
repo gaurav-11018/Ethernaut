@@ -23,6 +23,7 @@ The task:
 
 2.Reduce its balance to 0.
 
+//
 Problem with contract:
 
 Bad implementation of fall back functio i.e Changing contract ownership inside the fallback function.
