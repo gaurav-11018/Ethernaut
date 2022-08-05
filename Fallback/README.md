@@ -3,7 +3,7 @@ First things first,
 What is a fallback function?
 
 
-In Solidity, a fallback function is an external function with neither a name, parameters, or return values.
+-> In Solidity, a fallback function is an external function with neither a name, parameters, or return values.
 
 
 
@@ -17,18 +17,18 @@ Few notable properties of fallback function:
 
 
 The task:
-![Fallback](https://user-images.githubusercontent.com/79459872/182846743-b0267e4b-9589-4968-9aa5-de4b7779f5a3.png)
 
 1.Claim ownership of the contract.
 
 2.Reduce its balance to 0.
 
+
 //
 Problem with contract:
 
-Bad implementation of fall back functio i.e Changing contract ownership inside the fallback function.
+-> Bad implementation of fall back functio i.e Changing contract ownership inside the fallback function.
 
-Observe the condition seen in fallback function
+*Observe the condition seen in fallback function*
  
  receive() external payable {
     require(msg.value > 0 && contributions[msg.sender] > 0);
@@ -42,11 +42,11 @@ How to get ownership and winthdraw all the money out of the contract
  
 Solution:
 
-1.Your account address has to contribute to be mapped. 
+1. Your account address has to contribute to be mapped. 
 
 await contract.contribute({value:3})
 
-2.Trigger fallback function by sending transcation by using web3.js command.
+2. Trigger fallback function by sending transcation by using web3.js command.
 
 await contract.sendTransaction({value:3})
 
