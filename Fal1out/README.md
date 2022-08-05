@@ -20,7 +20,7 @@ However the problem is when they had a typo while naming the in constructor, whi
 
 
 
--------------------------Mission Accomplished---------------------------------------
+---------------------------------Mission Accomplished---------------------------------------
 
 
 That was silly wasn't it? Real world contracts must be much more secure than this and so must it be much harder to hack them right?
