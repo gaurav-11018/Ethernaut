@@ -1,3 +1,6 @@
+# FALLOUT 
+
+
 AIM: To gain ownership of the contract.
 
 Solution: Its pretty simple actually , the main problem with the given contract is the old-school way of creating a constructor.
