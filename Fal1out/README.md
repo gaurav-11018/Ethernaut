@@ -5,7 +5,9 @@ AIM: To gain ownership of the contract.
 
 Solution: Its pretty simple actually , the main problem with the given contract is the old-school way of creating a constructor.
 Basically u can create a constructor using a function by:
+
 -> Naming the function similar to contract,
+
 -> Making it as the first function of the contract.
 
 
