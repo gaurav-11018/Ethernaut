@@ -1,4 +1,6 @@
-#Coin-Flip-(The Myth Of Randomness)
+#Coin-Flip
+
+(The Myth Of Randomness)
 
 
 For the peeps who are like "wth is he talking abt ?" 
