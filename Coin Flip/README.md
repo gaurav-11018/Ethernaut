@@ -1,6 +1,11 @@
 CoinFlip(The Myth Of Randomness)
 
 
+Lesson to be learnt:
+True randomness is hard to achieve in native Solidity.
+Therefore its more advisable to use the help of oracles like 
+@chainlink
+
 For the peeps who are like "wth is he talking abt ?" 
 
 This is the Problem Statement :
@@ -28,8 +33,5 @@ have a look:https://docs.chain.link/docs/intermediates-tutorial/
 
 
 
-Lesson to be learnt:
-True randomness is hard to achieve in native Solidity.
-Therefore its more advisable to use the help of oracles like 
-@chainlink
+
   
