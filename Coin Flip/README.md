@@ -1,4 +1,4 @@
-#Coin-Flip
+#CoinFlip
 
 (The Myth Of Randomness)
 
