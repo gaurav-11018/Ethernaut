@@ -11,7 +11,7 @@ contract Telephone {
 
   function changeOwner(address _owner) public {
     if (tx.origin != msg.sender) {
-      owner = _owner;
+       owner = _owner;
     }
   }
 }
