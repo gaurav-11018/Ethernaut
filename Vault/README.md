@@ -1,6 +1,6 @@
 # Vault
 
-Smart-Contract security and auditing* 
+Smart-Contract security and auditing
 
 
 Completed Ethernaut Challenge 8 :Vault!!!
