@@ -1,4 +1,4 @@
-# king
+# KING
 
 *Smart-Contract security and auditing* 
 
