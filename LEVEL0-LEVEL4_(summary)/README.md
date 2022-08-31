@@ -1,4 +1,4 @@
-For the all peeps who missed out my super dope threads abt Ethernaut challenges, don't worry guys I still care for u😂 that's y I  have got a one line lesson summaries just for you guys.#Web3 #security 
+For the all peeps who missed out my super dope threads abt Ethernaut challenges, don't worry guys I  have got a one line lesson summaries just for you guys.#Web3 #security 
 
 FIVE LESSONS I LEARNT TO NOT GET HACKED:
 
@@ -19,4 +19,4 @@ Thats all!
 
 
 
-Stay safe and follow me...😂
+
