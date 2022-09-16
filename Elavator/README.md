@@ -9,4 +9,4 @@ Sometimes solidity is not good at keeping promises.
 This Elevator expects to be used from a Building.
 
 
-# working on solution
+# working on solution.
