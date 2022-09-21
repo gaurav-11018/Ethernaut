@@ -12,4 +12,4 @@ Tips:
 Remember that metamask is just a commodity. Use another tool if it is presenting problems. Advanced gameplay could involve using remix, or your own web3 provider.
 
 
-# still working on the solution
+# still working on the solution.
