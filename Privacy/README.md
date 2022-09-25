@@ -33,8 +33,9 @@ And Boom!! you have got everything you want to hack this contract.
 ->All storage is publicly visible on the blockchain, even your private variables!
 
 ->Never store passwords and private keys without hashing them first.
+![last](https://user-images.githubusercontent.com/79459872/192141826-ce5cd7ed-b95d-4d30-aa74-fe3c327472d5.png)
 
-![attack](https://user-images.githubusercontent.com/79459872/192141680-8638785c-4d33-4907-b2c7-b507d08e5cff.png)
+
 
 # Congragulations
 ![success](https://user-images.githubusercontent.com/79459872/192141774-eee6053e-5bf4-400a-8a33-a2de4b613adc.png)
