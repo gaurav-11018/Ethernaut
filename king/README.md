@@ -3,7 +3,7 @@
 *Smart-Contract security and auditing* 
 
 
-Completed Ethernaut Challenge 9 :King!!
+Completed Ethernaut Challenge 9 :King!
 
 
 # WHAT YOU SHOULD KNOW BEFORE WRITING YOUR SOLIDITY CONTRACT:
