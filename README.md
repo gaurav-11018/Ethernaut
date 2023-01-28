@@ -1,4 +1,4 @@
 # Ethernaut
-Smart-contract Security & Auditing .
+Smart-contract Security & Auditing.
 
 
